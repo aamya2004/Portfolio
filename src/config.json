@@ -1,0 +1,139 @@
+{
+  "personalInfo": {
+    "name": "Aamya Chauhan",
+    "position": "Frontend Developer",
+    "profile": "./profileImg.JPG",
+    "bio": "Hi! I am currently a final year student pursuing a degree in Computer Science at Jaypee University Of Information Technology. I am a UI/UX designer and a frontend developer, I believe it is the perfect combo as I am aware with the design trends and can mould them into beautiful & attractive websites. I love what I do UwU. To know more about me just scroll down <3.",
+    "highlight_bio": {
+      "Computer Science": null,
+      "Jaypee University of Information Technology": "https://www.juit.ac.in/",
+      "Hyderabad": "https://www.google.com/search?gs_ssp=eJzj4tDP1TewTDYrN2D04syoTEktSkxKTAEAQSYGfw&q=hyderabad&oq=hyder&gs_lcrp=EgZjaHJvbWUqEAgBEC4YkQIYsQMYgAQYigUyBggAEEUYOTIQCAEQLhiRAhixAxiABBiKBTIGCAIQRRg7MgYIAxBFGDsyBggEEEUYOzIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE3NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+      "8.2": null,
+      "pathak2002ujjwal@gmail.com": "mailto:aamya17072004@gmail.com",
+      "Product Development Intern": null,
+      "drop a message": "https://wa.me/8544701208"
+    },
+    "highlight_about": [],
+    "about": "A perfect blend of creativity & development"
+  },
+  "socials": [
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/aamyachauhan/"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/aamya2004/"
+    },
+    {
+      "name": "leetcode",
+      "url": "https://leetcode.com/u/XoDrizzle/"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/aamyachauhan/"
+    },
+    {
+      "name": "whatsapp",
+      "url": "https://wa.me/8544701208"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer Intern",
+      "company": "PathOr Platforms",
+      "duration": "April 2024 - May 2024",
+      "location": "Remote",
+      "details": "Developed the frontend for AVA, a flagship human-like AI assistant, using Next.js. Designed intuitive, modern, and visually appealing interfaces to enhance user engagement. Implemented efficient APIs for seamless data operations, ensuring high system performance. Led the homepage redesign, improving user retention and satisfaction. Collaborated with cross-functional teams to define and deliver innovative features across four diverse projects",
+      "highlight_details": {
+        "frontend for AVA": null,
+        "Next.js": null,
+        "Designed intuitive, modern, and visually appealing interfaces": null,
+        "homepage redesign": null
+      },
+      "technologies": ["React.js","Next.js","CSS","Figma"],
+      "logo": "./PathOr.jpg"
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Techbud",
+      "duration": "June 2023 - July 2023",
+      "location": "Remote",
+      "details":"Designed visually appealing posts for TechBud’s Instagram handle, focusing on digital marketing content. Created promotional graphics, infographics, and social media creatives to enhance engagement and brand presence. Ensured designs aligned with branding guidelines and market trends. Collaborated with the marketing team to optimize social media reach, contributing to a stronger digital identity through innovative and impactful visuals.",
+      "technologies": ["Adobe Photoshop", "Adobe Illustrator", "Figma"],
+      "logo": "./techbud.png"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Google Meet Clone",
+      "description": "I created a video calling/conferencing platform which has the features of calling, messaging and screen sharing. The platform uses socket.io for connecting the users.",
+      "technologies": ["React.js", "Socket.io", "WebRTC", "CSS"],
+      "links": [
+        {
+          "img": "./github2.svg",
+          "url": "https://github.com/aamya2004/gmeetclone"
+        },
+        {
+          "img": "./website.svg",
+          "url": "https://gmeetclone.vercel.app/"
+        }
+      ],
+      "image": "googlemeet.png"
+    },
+    {
+      "name": "SocialGenZ",
+      "description": "I developed a social media platform which has the features of posting, commenting on other's post, following other people, getting the trending hashtags to know whats going on around the world. The frontend is built in Next.js and the bakend is built with SQL.",
+
+      "technologies": ["Next.js", "SQL"],
+      "links": [
+        {
+          "img": "./github2.svg",
+          "url": "https://interviewlabs.netlify.app/"
+        },
+        {
+          "img": "./website.svg",
+          "url": "https://interviewlabs.netlify.app/"
+        },
+        {
+          "img": "./youtube.svg",
+          "url": "https://interviewlabs.netlify.app/"
+        }
+      ],
+      "image": "./pintastic.png"
+    }
+  ],
+  "openSourceContributions": [
+    {
+      "organization": "Duolicious",
+      "repository": "duolicious-frontend",
+      "introduction": "Duolicious is the internet’s most popular free and open-source dating app, available on Google Play, iOS, and the web. It features a unique question-based matching system with over 2,000 insightful prompts, helping users find meaningful connections. Unlike traditional swiping apps, Duolicious fosters authentic interactions by encouraging thoughtful conversations instead of superficial likes. It also provides psychometric insights, including MBTI traits and attachment styles. With no ads or paywalls, every user gets the full experience. Supported by a passionate community through donations and contributions, Duolicious offers a refreshing, data-driven approach to modern dating.",
+      "details": "#516 - Currently working on this issue of adding preset colours to the porfile so that the user can choose from the provided themes in addition to selecting custom colors.",
+      "highlight_details": {
+        "#516": "https://github.com/duolicious/duolicious-frontend/issues/516"
+      },
+      "technologies": ["React Native", "Typescript", "Styling"],
+      "logo": "./duolicious.png"
+    }
+  ],
+  "project_archive": [
+    {
+      "name": "Google Meet Clone",
+      "description": "Video conferencing platform with features like in call messages and screen sharing.",
+      "technology": ["React.js", "WebRTC", "Socket.io", "OAuth"],
+      "github": "https://github.com/aamya2004/gmeetclone"
+    },
+    {
+      "name": "SocialGenZ",
+      "description": "Social media platform with the features of posting, commenting, following each other and getting the latest trending hashtags.",
+      "technology": ["Next.js", "SQL"],
+      "github": "https://github.com/aamya2004/SocialGenZ"
+    },
+    {
+      "name": "BingeBox",
+      "description": "Series and movie streaming platform.",
+      "technology": ["React.js","API","OAuth"],
+      "github": "https://github.com/aamya2004/BingeBox"
+    }
+  ]
+}
